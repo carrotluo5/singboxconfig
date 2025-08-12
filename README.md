@@ -1,1 +1,1 @@
-# singboxconfig
+singbox自用配置
